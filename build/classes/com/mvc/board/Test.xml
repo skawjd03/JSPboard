@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Testxml>
+	<key>/file.bo</key>
+	<value>com.mvc.board.command.BFilecommand</value>
+	<key>/list.bo</key>
+	<value>com.mvc.board.command.BListcommand</value>
+	<key>/write.bo</key>
+	<value>com.mvc.board.command.BWritecommand</value>
+	<key>/view.bo</key>
+	<value>com.mvc.board.command.BViewcommand</value>
+	<key>/reply.bo</key>
+	<value>com.mvc.board.command.BReplycommand</value>
+	<key>/reReply.bo</key>
+	<value>com.mvc.board.command.BReReplycommand</value>
+	<key>/idCheck.bo</key>
+	<value>com.mvc.board.command.UIDCheckcommand</value>
+	<key>/JoinUser.bo</key>
+	<value>com.mvc.board.command.UJoincommand</value>
+	<key>/Login.bo</key>
+	<value>com.mvc.board.command.ULogincommand</value>
+	<key>/Logout.bo</key>
+	<value>com.mvc.board.command.ULogoutcommand</value>
+</Testxml>
